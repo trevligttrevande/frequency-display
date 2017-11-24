@@ -1,0 +1,30 @@
+# d7018e - special studies in embedded systems
+## Johan
+Course name : "d7018e - special studies in embedded systems"
+Personal info : Johan Jirlén, johjir-2@student.ltu.se 199306285017
+Titel of project : Audio frequency analysis visualized on display
+Project description : Aim is to analyze the frequency content of analog input and display on LCD screen
+
+### Grading goals
+Write code that interacts with LCD Monitor: 
+  3 Explore and attempt interaction between an embedded system and a display
+  4 The implementation is based on an understanding of the rust memory model and consideration is given to rust's strenghts and weaknesses 
+  5 The solution is generalized in such a way that it easily can be transfered into other projects
+
+## Martin
+Course name : "d7018e - special studies in embedded systems"
+Personal info : 
+Titel of project : Audio frequency analysis visualized on display
+Project description : Aim is to analyze the frequency content of analog input and display on LCD screen
+
+###Grading goals
+Write code that samples ADC input and implement FFT algorithm:
+  3 Sample ADC input and apply data to FFT implementation
+  4 The implementation of the FFT is based on an understanding of the rust memory model and consideration is given to rust's strenghts and weaknesses 
+  5 The FFT algorithm is implemented purely in core-rust and generalized in such a way that it easily can be transfered into other projects
+
+
+## General grading goals
+  3 Explore and attempt solutions for the given problem
+  4 The implementation is based on an understanding of the rust memory model and consideration is given to rust's strenghts and weaknesses 
+  5 The solution is generalized in such a way that it easily can be transfered into other projects
