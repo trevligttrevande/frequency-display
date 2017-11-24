@@ -2,7 +2,7 @@
 Project for Are We Embedded Yet? D7018E Embedded Rust course. Aim is to analyze frequency content of analog unput and display on LCD screen.
 
 # HARDWARE
-The project will be implemented on a _BLANK_ using a _BLANK_ LCD monitor.
+The project will be implemented on a LPC4357-EVB development card using a K430WQA-V4-F LCD monitor.
 
 # TODO
 Write code that interacts with LCD Monitor.
