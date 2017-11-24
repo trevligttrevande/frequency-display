@@ -8,6 +8,7 @@ The project will be implemented on a LPC4357-EVB development card using a K430WQ
 Write code that interacts with LCD Monitor.
 Write code that samples ADC input.
 Implement FFT algorithm.
+Display the FFT on the monitor. (Scaling and update rates and stuff.)
 
 # Something about xargo, vscode, rust?
 Software needed to build the project and how to use it.
