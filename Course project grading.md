@@ -7,9 +7,9 @@ Project description : Aim is to analyze the frequency content of analog input an
 
 ### Grading goals
 Write code that interacts with LCD Monitor: 
-  3. Experiment with interaction between an embedded system (LPC4757-EVB) and a display (K430WQA-V4-F LCD monitor)
-  4. Design an API for for using the monitor with embedded RUST. 
-  5. Implement API with proper documentation, examples and testing.
+*  3. Experiment with interaction between an embedded system (LPC4757-EVB) and a display (K430WQA-V4-F LCD monitor)
+*  4. Design an API for for using the monitor with embedded RUST. 
+*  5. Implement API with proper documentation, examples and testing.
 
 
 ## Martin
@@ -20,8 +20,8 @@ Project description : Aim is to analyze the frequency content of analog input an
 
 ###Grading goals
 Write code that samples ADC input and implement FFT algorithm:
-  3. Experiment with ADC input and FFT implementation on LPC4757-EVB.
-  4. Design an API for for using Fourier Transforms with embedded RUST. 
-  5. Implement API with proper documentation, examples and testing.
+*  3. Experiment with ADC input and FFT implementation on LPC4757-EVB.
+*  4. Design an API for for using Fourier Transforms with embedded RUST. 
+*  5. Implement API with proper documentation, examples and testing.
 
 
