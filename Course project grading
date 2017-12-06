@@ -7,9 +7,10 @@ Project description : Aim is to analyze the frequency content of analog input an
 
 ### Grading goals
 Write code that interacts with LCD Monitor: 
-  3 Explore and attempt interaction between an embedded system and a display
-  4 The implementation is based on an understanding of the rust memory model and consideration is given to rust's strenghts and weaknesses 
-  5 The solution is generalized in such a way that it easily can be transfered into other projects
+  3 Experiment with interaction between an embedded system (LPC4757-EVB) and a display (K430WQA-V4-F LCD monitor)
+  4 Design an API for for using the monitor with embedded RUST. 
+  5 Implement API with proper documentation, examples and testing.
+
 
 ## Martin
 Course name : "d7018e - special studies in embedded systems"
@@ -19,9 +20,9 @@ Project description : Aim is to analyze the frequency content of analog input an
 
 ###Grading goals
 Write code that samples ADC input and implement FFT algorithm:
-  3 Sample ADC input and apply data to FFT implementation
-  4 The implementation of the FFT is based on an understanding of the rust memory model and consideration is given to rust's strenghts and weaknesses 
-  5 The FFT algorithm is implemented purely in core-rust and generalized in such a way that it easily can be transfered into other projects
+  3 Experiment with ADC input and FFT implementation on LPC4757-EVB.
+  4 Design an API for for using Fourier Transforms with embedded RUST. 
+  5 Implement API with proper documentation, examples and testing.
 
 
 ## General grading goals
