@@ -25,7 +25,3 @@ Write code that samples ADC input and implement FFT algorithm:
   5 Implement API with proper documentation, examples and testing.
 
 
-## General grading goals
-  3 Explore and attempt solutions for the given problem
-  4 The implementation is based on an understanding of the rust memory model and consideration is given to rust's strenghts and weaknesses 
-  5 The solution is generalized in such a way that it easily can be transfered into other projects
