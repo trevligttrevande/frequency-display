@@ -1,9 +1,12 @@
 # d7018e - special studies in embedded systems
 
-## Martin
+## Martin Mörtsell - 9409164598
 Course name : "d7018e - special studies in embedded systems"
+
 Personal info : 
+
 Titel of project : Audio frequency analysis visualized on display
+
 Project description : Aim is to analyze the frequency content of analog input and display on LCD screen
 
 ###Grading goals
