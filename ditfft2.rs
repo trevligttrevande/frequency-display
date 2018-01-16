@@ -1,6 +1,6 @@
 // This is an implementation of the radix-2-DIT FFT algorithm.
 // As of now the function is very much unsafe as the algorithm only is valid for arrays of size 2^N.
-// The function should also work in RUST core.
+// The function has been tested and works with no std.
 // X = fft(x)
 // Having size 1 as bottom layer might not be optimal.
 
